@@ -14,5 +14,7 @@
 - Bigtable 
    * Fully managed Scalable HBase database
    * No SQL Wide column
+   * Structured objects
 - Data Store
    * NoSQL document storage db
+   * Unstructure objects

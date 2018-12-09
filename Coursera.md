@@ -11,3 +11,8 @@
 
         * ***Layer 7 load balancing*** operates at the high-level application layer, which deals with the actual content of each message. HTTP is the predominant Layer 7 protocol for website traffic on the Internet. Layer 7 load balancers route network traffic in a much more sophisticated way than Layer 4 load balancers, particularly applicable to TCP-based traffic such as HTTP. A Layer 7 load balancer terminates the network traffic and reads the message within. It can make a load-balancing decision based on the content of the message (the URL or cookie, for example). It then makes a new TCP connection to the selected upstream server (or reuses an existing one, by means of HTTP keepalives) and writes the request to the server
       * https://freeloadbalancer.com/wp-content/uploads/2015/02/FreeLoadBalancerLayer4Layer7.jpg
+- Bigtable 
+   * Fully managed Scalable HBase database
+   * No SQL Wide column
+- Data Store
+   * NoSQL document storage db
